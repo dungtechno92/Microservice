@@ -6,4 +6,13 @@
 ### Design microservice với spring cloud
 ![Architecture](Architecture.png)
 
+#### Xây dựng service registry với Spring cloud và Eureka
+  - Các microservice sẽ đăng ký với service registry. Sau khi đã đăng ký với service registry, các microservice có thể gọi qua nhau mà không cần phải gọi đến microservice khác thông qua ip mà chỉ cần gọi qua tên của microservice đó đã đăng ký với service registry. Service registry cũng quản lý trạng thái của từng instance của mỗi microservice đã đăng ký với service registry.
+
+#### Xây dựng microservice
+
+#### Xây dựng API gateway
+
+#### Xây dựng Load balancer
+
 
