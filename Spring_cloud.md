@@ -4,6 +4,6 @@
   - Reference: https://www.youtube.com/watch?v=b2ih5RCuxTM, http://javaonfly.blogspot.com/2017/06/microservicespring-cloud-config-server.html.
   
 ### Design microservice với spring cloud
-![Architechture](Architechture.png)
+![Architecture](Architecture.png)
 
 
